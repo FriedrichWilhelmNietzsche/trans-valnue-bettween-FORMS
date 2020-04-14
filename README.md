@@ -3,4 +3,4 @@
 
 
 
-![截图]（https://github.com/FriedrichWilhelmNietzsche/trans-valnue-bettween-FORMS/blob/master/screenshoot.png）
+![截图](https://github.com/FriedrichWilhelmNietzsche/trans-valnue-bettween-FORMS/blob/master/screenshoot.png)
